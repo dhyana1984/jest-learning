@@ -1,0 +1,6 @@
+module Pods_reactnativjestlearninge {
+  umbrella header "Pods-reactnativjestlearninge-umbrella.h"
+
+  export *
+  module * { export * }
+}
