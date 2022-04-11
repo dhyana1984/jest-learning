@@ -35,12 +35,14 @@ android/app/gradle/
 android/app/gradlew
 android/app/gradlew.bat
 *.hprof
+android/gradle
 
 # node.js
 #
 node_modules/
 npm-debug.log
 yarn-error.log
+launch.json
 
 # BUCK
 buck-out/
@@ -72,8 +74,4 @@ junit.xml
 #yarn
 yarn.lock
 
-# vscode
-build/
-!build/pre-merge-unit-test.yml
-!build/pre-merge-apk-build.yml
 .vscode
